@@ -1,6 +1,9 @@
 body{
     background-color: wheat;
 }
+ol{
+    list-style: upper-roman;
+}
 .small{
     vertical-align: top;
     margin: 10px;
