@@ -1,0 +1,18 @@
+body{
+    background-color: wheat;
+}
+.small{
+    vertical-align: top;
+    margin: 10px;
+    width: 150px;
+    height: 150px;
+    display: inline-block;
+    background-color: sandybrown;
+}
+.big h2{
+    border: 3px solid;
+    background-color: aquamarine;
+}
+.big{
+    background-color: blanchedalmond;
+}
